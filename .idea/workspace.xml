@@ -16,12 +16,9 @@
       <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Midterm Theory/Midterm Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program11/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program11/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program11/.idea/vcs.xml" afterDir="false" />
@@ -34,6 +31,8 @@
       <change afterPath="$PROJECT_DIR$/../Program1Midterm/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program1Midterm/Program1Midterm.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Quiz4.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +43,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1drYzxEkEfhwWNzxTfKY1rkVjIo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593184944757</updated>
-      <workItem from="1593184948711" duration="350000" />
+      <workItem from="1593184948711" duration="1052000" />
     </task>
     <servers />
   </component>

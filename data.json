@@ -1,0 +1,52 @@
+[
+  {
+    "name" : "Bread",
+    "calories": 200,
+    "spicy": false
+  },
+  {
+    "name" : "cake",
+    "calories": 250,
+    "spicy": true
+  },
+  {
+    "name" : "buskit",
+    "calories": 100,
+    "spicy": false
+  },
+  {
+  "name" : "jali",
+  "calories": 120,
+  "spicy": false
+},
+  {
+    "name" : "mari",
+    "calories": 130,
+    "spicy": false
+  },
+  {
+    "name" : "tari",
+    "calories": 250,
+    "spicy": true
+  },
+  {
+    "name" : "boding",
+    "calories": 400,
+    "spicy": false
+  },
+  {
+    "name" : "vinilla",
+    "calories": 120,
+    "spicy": true
+  },
+  {
+    "name" : "choclot",
+    "calories": 350,
+    "spicy": true
+  },
+  {
+    "name" : "burbon",
+    "calories": 110,
+    "spicy": true
+  }
+]
