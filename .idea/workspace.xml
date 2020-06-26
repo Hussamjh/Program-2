@@ -16,9 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Midterm Theory/Midterm Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program11/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program11/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program11/.idea/vcs.xml" afterDir="false" />
@@ -31,8 +28,8 @@
       <change afterPath="$PROJECT_DIR$/../Program1Midterm/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Program1Midterm/Program1Midterm.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Quiz4.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593184944757</updated>
-      <workItem from="1593184948711" duration="1052000" />
+      <workItem from="1593184948711" duration="1340000" />
     </task>
     <servers />
   </component>
@@ -96,5 +93,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="380" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1593185039252" />
+    <state x="305" y="185" key="run.anything.popup" timestamp="1593186259856">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="185" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1593186259856" />
   </component>
 </project>
