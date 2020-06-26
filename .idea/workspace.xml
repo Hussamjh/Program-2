@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e01f2a0-adb9-42f4-8143-50c3e2120c5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercise2/.idea/Exercise2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm Theory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm Theory/Midterm Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/Program11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program11/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program1Midterm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program1Midterm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program1Midterm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program1Midterm/Program1Midterm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz4.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1drYzxEkEfhwWNzxTfKY1rkVjIo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e01f2a0-adb9-42f4-8143-50c3e2120c5e" name="Default Changelist" comment="" />
+      <created>1593184944757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593184944757</updated>
+      <workItem from="1593184948711" duration="350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593185039252">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="380" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1593185039252" />
+  </component>
+</project>
